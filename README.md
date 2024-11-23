@@ -1,0 +1,1 @@
+Задача на защиту: Given the matrix representing a relation on a finite set, find the matrix representing the transitive closure of this relation by computing the join of the Boolean powers of the matrix representing the relation.
